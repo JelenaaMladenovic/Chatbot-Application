@@ -6,4 +6,4 @@ Implementirana aplikacije za postavljeno pitanje, korišćenjem vektorske pretra
 pronalazi najsličnija pitanja u bazi podataka. Na osnovu rezultata pretrage i veza u Neo4j graf bazi podataka, 
 aplikacija će korisniku pružiti najrelevantnije odgovore.
 
-- Komanda za pokretanje: docker compose up
+
